@@ -8,6 +8,9 @@
 [submodule "quickPWCR"]
 	path = quickPWCR
 	url = https://github.com/billbillbilly/quickpwcr
+[submodule "streetscape"]
+	path = streetscape
+	url = https://github.com/billbillbilly/streetscape
 [submodule "viewscape"]
 	path = viewscape
 	url = https://github.com/billbillbilly/viewscape
