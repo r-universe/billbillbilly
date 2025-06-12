@@ -5,6 +5,9 @@
 [submodule "dsmSearch"]
 	path = dsmSearch
 	url = https://github.com/billbillbilly/dsmsearch
+[submodule "gloBFPr"]
+	path = gloBFPr
+	url = https://github.com/billbillbilly/globfpr
 [submodule "quickPWCR"]
 	path = quickPWCR
 	url = https://github.com/billbillbilly/quickpwcr
