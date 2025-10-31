@@ -8,6 +8,9 @@
 [submodule "gloBFPr"]
 	path = gloBFPr
 	url = https://github.com/billbillbilly/globfpr
+[submodule "greenSD"]
+	path = greenSD
+	url = https://github.com/billbillbilly/greensd
 [submodule "quickPWCR"]
 	path = quickPWCR
 	url = https://github.com/billbillbilly/quickpwcr
